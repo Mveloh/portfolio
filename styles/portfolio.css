@@ -88,6 +88,9 @@ h2 {
 .about-description {
   margin: 30px;
 }
+.contact h4 {
+  font-size: 30px;
+}
 @media (max-width: 900px) {
   .description {
     padding: 0;
