@@ -68,24 +68,29 @@ h2 {
 .description {
   padding: 120px 60px;
 }
-.about {
+.content {
   padding: 160px 20px;
 }
-.about h1 {
+.content h1 {
   font-size: 64px;
   line-height: 80px;
   font-family: var(--heading-font-family);
 }
-.about h2 {
+.content h2 {
   font-size: 18px;
   line-height: 27px;
   font-family: var(--default-font-family);
 }
-.about p {
+.content h3 {
+  font-size: 24px;
+  font-family: var(--default-font-family);
+  line-height: 1;
+}
+.content p {
   font-size: 16px;
   line-height: 30px;
 }
-.about-description {
+.content-description {
   margin: 30px;
 }
 .contact h4 {
@@ -106,7 +111,7 @@ h2 {
   .home {
     padding: 80px 10px;
   }
-  .about-description {
+  .content-description {
     text-align: center;
     padding: 0;
   }
