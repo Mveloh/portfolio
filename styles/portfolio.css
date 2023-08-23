@@ -97,7 +97,7 @@ a {
   color: black;
 }
 .active {
-  color: var(--branding-color);
+  color: var(--branding-color) !important;
 }
 .contact a {
   color: var(--branding-color);
@@ -109,9 +109,6 @@ a {
 }
 .contact h1 {
   margin-top: -102px;
-}
-.navbar-toggler-icon {
-  color: red !important;
 }
 
 @media (max-width: 900px) {
