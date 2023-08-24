@@ -31,7 +31,7 @@ h2 {
 .home {
   background-color: var(--home-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 .home p {
   color: var(--secondary-color);
@@ -69,7 +69,7 @@ h2 {
   padding: 120px 60px;
 }
 .content {
-  padding: 160px 20px;
+  padding: 100px 20px;
 }
 .content h1 {
   font-size: 64px;
